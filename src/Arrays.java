@@ -15,6 +15,7 @@ public class Arrays {
      */
     public static void main(String[] args) {
         System.out.println("Did you get this");
+        System.out.println("Im pushin it");
     }
     
 }
